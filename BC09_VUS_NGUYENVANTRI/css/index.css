@@ -19,6 +19,7 @@ img{
     text-align: center;
     width: initial;
     margin-bottom: 30px;
+    
 }
 .line img{
     width: initial;
@@ -112,6 +113,9 @@ nav ul li:first-child a::after{
     float: left;
     position: relative;
     padding: 0 6px;
+}
+.news .item img{
+    display: block;
 }
 .news .item h3{
     position:absolute;
